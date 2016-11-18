@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="49be34d1-b81f-4da3-b4b9-51b101344095" name="CourseController" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="49be34d1-b81f-4da3-b4b9-51b101344095fileName">CourseController</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

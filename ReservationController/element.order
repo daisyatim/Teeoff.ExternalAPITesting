@@ -1,0 +1,10 @@
+%2Fv1%2FReservation%2F%7BreservationId%7D---DELETE.xml
+%2Fv1%2FReservation%2F%7BreservationId%7D---GET.xml
+%2Fv1%2FReservation%2F%7BreservationId%7D%2Fstatus.xml
+%2Fv1%2FReservation.xml
+%2Fv1%2FReservation%2F%7BreservationId%7D%2FNotifyFriend.xml
+%2FTeeOff%2Fv1%2FReservation%2FProcessTeeTimeCheckout.xml
+%2FTeeOff%2Fv1%2FReservation%2FApplyPromoCode.xml
+%2FTeeOff%2Fv1%2FReservation%2FModifyReservation.xml
+%2FTeeOff%2Fv1%2FReservation%2FBookReservation.xml
+%2FTeeOff%2Fv1%2FReservation%2FCancelReservation.xml

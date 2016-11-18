@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="3900b5f9-8f08-40d6-91e7-43a93f9b77d2" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="/v1/Course" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="3900b5f9-8f08-40d6-91e7-43a93f9b77d2fileName">%2Fv1%2FCourse</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:testStep type="restrequest" name="GET Request" id="5ab6e74b-d972-4b11-b96f-c6ba9aca231f"><con:settings/><con:config service="OpenTee.ExternalApi" resourcePath="/v1/Course" methodName="CourseController_Index" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="GET Request" id="fab40ce8-7e4f-4569-bd80-15f228d6a0eb" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://dev-api.opentee.com</con:endpoint><con:request/><con:originalUri>https://dev-api.opentee.com/v1/Course</con:originalUri><con:credentials><con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters>
+  <con:entry key="country" value="United States"/>
+  <con:entry key="startIndex" value="1"/>
+  <con:entry key="regionId" value="220"/>
+  <con:entry key="count" value="100"/>
+  <con:entry key="state" value="Arizona"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:properties/><con:reportParameters/></con:testCase>

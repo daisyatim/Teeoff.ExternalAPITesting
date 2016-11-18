@@ -1,0 +1,7 @@
+%2Fv1%2FCourse.xml
+%2Fv1%2FCourse%2FCountries.xml
+%2Fv1%2FCourse%2FStatesByCountry%2F%7BcountryCode%7D.xml
+%2Fv1%2FCourse%2FRegionsByState.xml
+%2Fv1%2FCourse%2F%7BcourseId%7D.xml
+%2Fv1%2FCourse%2FLookupId%2F%7BexternalIdSource%7D%2F%7BexternalId%7D.xml
+%2Fv1%2FCourse%2F%7BcourseId%7D%2FValidateTeeTime.xml

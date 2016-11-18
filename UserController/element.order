@@ -1,0 +1,14 @@
+%2FTeeOff%2Fv1%2FUser%2FAuthenticateUser.xml
+%2FTeeOff%2Fv1%2FUser%2FSessionStart.xml
+%2FTeeOff%2Fv1%2FUser%2FGetUser.xml
+%2FTeeOff%2Fv1%2FUser%2FAddUser.xml
+%2FTeeOff%2Fv1%2FUser%2FUpdateUser.xml
+%2FTeeOff%2Fv1%2FUser%2FUpdateUserPreference.xml
+%2FTeeOff%2Fv1%2FUser%2FRegisterGuest.xml
+%2FTeeOff%2Fv1%2FUser%2FResetPassword.xml
+%2FTeeOff%2Fv1%2FUser%2FGetFutureReservations.xml
+%2FTeeOff%2Fv1%2FUser%2FGetPastReservations.xml
+%2FTeeOff%2Fv1%2FUser%2FGetCreditCardInfo.xml
+%2FTeeOff%2Fv1%2FUser%2FDeleteCreditCard.xml
+%2FTeeOff%2Fv1%2FUser%2FAddCreditCardInfo.xml
+%2FTeeOff%2Fv1%2FUser%2FSetDefaultCreditCard.xml
